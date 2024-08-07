@@ -1,0 +1,2 @@
+Our work here is to make a “Hand Gesture Controlled Robot”. we aim to create this system because it minimizes human effort and maximizes efficiency and this device basically uses sensors to capture and interpret hand movements. Gestures are wirelessly transmitted to direct the car, eliminating traditional remote controls. This technology offers precise control, benefiting individuals with disabilities.
+![image](https://github.com/user-attachments/assets/a42c242c-9e4e-490f-8658-92d17a45908f)
